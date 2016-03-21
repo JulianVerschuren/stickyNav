@@ -14,6 +14,14 @@ padding: 0;
 
 }
 
+nav{
+transition-property: top;
+transition-duration: 500ms;
+height: 2em;
+position: fixed;
+}
+
+
 body{
 background-color: beige;
 color: green;
@@ -64,7 +72,7 @@ color: black;
 font-size: 50px;
 font-family: sans-serif;
 font-weight: bold;
-
+line-height: 2em;
 }
 
 li a:hover {
