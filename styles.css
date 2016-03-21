@@ -45,6 +45,7 @@ nav ul li{
 
 float: left;
 padding: 0 2em;
+width: 300px;
 }
 
 
@@ -98,6 +99,6 @@ footer{
 width: 1200px;
 background-color:grey;
 color: white;
-height: 80px;
+height: 40px;
 }
 
